@@ -9,6 +9,7 @@ function App() {
       </h1>
       <p className={` bg-blue-500`}> welcome !</p>
     </div>
+    //hi there..!
   );
 }
 
